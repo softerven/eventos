@@ -1,0 +1,22 @@
+{
+    "name": "softerven/eventos",
+    "description": "Sistema de gestion de eventos para sigeven",
+    "minimum-stability": "dev",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Gilberto López Ambrosino",
+            "email": "gilberto@jmgideas.com"
+        },
+        {
+            "name": "Daniel Ferreira Pérez",
+            "email": "daniel@ferreira.fm"
+        }
+    ],
+    "require": {
+        "twig/twig": "1.16.*@dev",
+        "components/jquery": "dev-master",
+        "twbs/bootstrap": "3.2.*@dev",
+        "swiftmailer/swiftmailer": "5.3.*@dev"
+    }
+}
